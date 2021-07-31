@@ -1,0 +1,10 @@
+columns:
+  - Race
+  - Alignment
+
+ddo_wiki_base_url: https://ddowiki.com
+
+ddo_wiki_quest_url: https://ddowiki.com/page/Quests_by_level_and_XP
+
+# One of (Heroic, Epic)
+level: Heroic
